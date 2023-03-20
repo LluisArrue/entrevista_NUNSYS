@@ -8,7 +8,9 @@ En la carpeta `scripts` se encuentran los archvos de código:
 En la carpeta `scripts/runs` sen encuentran los logs de tensorboad con las métricas de los entrenamientos
    
    
-En la carpeta `scripts/models` se encuentran los modelos entrenados desde el jupyter notebook
+En la carpeta `scripts/models` se encuentran los modelos entrenados desde el jupyter notebook   
+   
+En la carpeta `data` encontramos los csv del reto de Kaggle, dentro de la carpeta `data/arrays` están las arrays de numpy resultado de pasar los tweets por un modelo basado en transformers
    
    
 
